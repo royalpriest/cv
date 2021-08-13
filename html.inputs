@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>inputs info.</title>
+  </head>
+  <body>
+  <form class="" action="index.html" method="post">
+    <input type="text" name="" value="">
+    <input type="submit" name="" value="">
+    <input type="file" name="" value="">
+    <input type="date" name="" value="">
+    <input type="radios" name="" value="">
+    <input type="range" name="" value="">
+  </form>
+
+  </body>
+</html>
